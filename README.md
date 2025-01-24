@@ -4,6 +4,7 @@ A modern, intuitive task management application built with React and Material-UI
 
 ![DoIt App Main Dashboard](screenshots/main-dashboard.png)
 
+
 ## 🌟 Features
 
 ### Core Features
@@ -12,6 +13,10 @@ A modern, intuitive task management application built with React and Material-UI
 - 🔐 User Authentication
 - 📱 Responsive Design
 - 🔍 Real-time Search
+- ![image](https://github.com/user-attachments/assets/957afd6b-14bf-41e3-b3b6-a821192e6f39)
+- ![image](https://github.com/user-attachments/assets/584cf814-03e1-4f54-8fa5-52e5fbc0db37)
+
+
 
 ### Task Organization
 - 📋 All Tasks Overview
@@ -19,6 +24,7 @@ A modern, intuitive task management application built with React and Material-UI
 - ⭐ Important Tasks
 - 📆 Planned Tasks
 - 👥 Assigned Tasks
+![image](https://github.com/user-attachments/assets/5f085ee1-347b-4a8d-a59f-6b94db80d238)
 
 ### User Experience
 - 🎨 Modern Material Design
